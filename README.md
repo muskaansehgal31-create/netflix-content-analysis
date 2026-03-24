@@ -42,7 +42,7 @@ The dashboard provides an interactive view of:
 - Distribution by type (Movie/TV Show).
 - Country-wise contribution.
 - Genre-wise classification.
-- 
+
 It enables users to filter data dynamically and gain deeper insights.
 
 ## Dashboard Preview
