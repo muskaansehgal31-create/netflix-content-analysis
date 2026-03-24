@@ -46,7 +46,8 @@ The dashboard provides an interactive view of:
 It enables users to filter data dynamically and gain deeper insights.
 
 ## Dashboard Preview
-![Dashboard]("power-bi dashboard.png")
+## Dashboard Preview
+![Dashboard](dashboard.png)
 
 # ✅ Conclusion
 
