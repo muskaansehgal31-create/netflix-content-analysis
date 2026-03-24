@@ -1,6 +1,6 @@
 # Netflix Content Analysis Dashboard 📊
 
-## 📌 project Overview
+## 📌 Project Overview
 This project analyzes Netflix content using Power BI. The dashboard provides insights into content distribution by year, type, country, and genre.This dashboard helps understand Netflix’s global content strategy and audience targeting trends.
 
 ## 🛠️ Tools Used
